@@ -12,6 +12,11 @@ A landing page template dedicated to Social Media Marketing Agencies (SMMA) to i
 * fontAwesome
 * Feather icons
 
+## Live Demo
+```
+https://redameziouni.github.io/SMMA-Landing-Page/
+```
+
 ## Preview
 
 <p align="center"><img src="./img/preview.png"/></p>
